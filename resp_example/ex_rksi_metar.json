@@ -1,0 +1,105 @@
+{
+    "meta": {
+        "timestamp": "2020-08-18T06:49:53.779328Z",
+        "stations_updated": "2020-08-09"
+    },
+    "altimeter": {
+        "repr": "Q1012",
+        "value": 1012,
+        "spoken": "one zero one two"
+    },
+    "clouds": [],
+    "flight_rules": "VFR",
+    "other": [],
+    "sanitized": "RKSI 180630Z 33005KT CAVOK 30/21 Q1012 NOSIG",
+    "visibility": {
+        "repr": "CAVOK",
+        "value": 9999,
+        "spoken": "ceiling and visibility ok"
+    },
+    "wind_direction": {
+        "repr": "330",
+        "value": 330,
+        "spoken": "three three zero"
+    },
+    "wind_gust": null,
+    "wind_speed": {
+        "repr": "05",
+        "value": 5,
+        "spoken": "five"
+    },
+    "wx_codes": [],
+    "raw": "RKSI 180630Z 33005KT CAVOK 30/21 Q1012 NOSIG",
+    "station": "RKSI",
+    "time": {
+        "repr": "180630Z",
+        "dt": "2020-08-18T06:30:00Z"
+    },
+    "remarks": "NOSIG",
+    "dewpoint": {
+        "repr": "21",
+        "value": 21,
+        "spoken": "two one"
+    },
+    "remarks_info": {
+        "dewpoint_decimal": null,
+        "temperature_decimal": null
+    },
+    "runway_visibility": [],
+    "temperature": {
+        "repr": "30",
+        "value": 30,
+        "spoken": "three zero"
+    },
+    "wind_variable_direction": [],
+    "units": {
+        "altimeter": "hPa",
+        "altitude": "ft",
+        "temperature": "C",
+        "visibility": "m",
+        "wind_speed": "kt"
+    },
+    "info": {
+        "city": "Seoul",
+        "country": "KR",
+        "elevation_ft": 23,
+        "elevation_m": 7,
+        "iata": "ICN",
+        "icao": "RKSI",
+        "latitude": 37.46910095214844,
+        "longitude": 126.45099639892578,
+        "name": "Incheon International Airport",
+        "note": null,
+        "reporting": true,
+        "runways": [
+            {
+                "length_ft": 13000,
+                "width_ft": 197,
+                "surface": "concrete",
+                "lights": true,
+                "ident1": "16",
+                "ident2": "34"
+            },
+            {
+                "length_ft": 12303,
+                "width_ft": 197,
+                "surface": "concrete",
+                "lights": true,
+                "ident1": "15L",
+                "ident2": "33R"
+            },
+            {
+                "length_ft": 12303,
+                "width_ft": 197,
+                "surface": "concrete",
+                "lights": true,
+                "ident1": "15R",
+                "ident2": "33L"
+            }
+        ],
+        "state": "28",
+        "type": "large_airport",
+        "website": null,
+        "wiki": "https://en.wikipedia.org/wiki/Incheon_International_Airport"
+    }
+}
